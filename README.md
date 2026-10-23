@@ -21,13 +21,13 @@ Taught and mentored engineers on software development, system design, APIs, dist
 
 ## Featured Projects
 
-### Rent Right — Full-Stack AI Application
+### [Rent Right](https://github.com/benkarlsberg/rent-right) — Full-Stack AI Application
 
 *React Native · Next.js · TypeScript · PostgreSQL · LLM Integration*
 
 A tenant assistance application combining AI-powered lease analysis with a **deterministic legal rules engine** for jurisdiction-aware guidance. The project emphasizes structured LLM output validation, secure data handling, and tests/evaluations for citation accuracy, grounding, and uncertainty.
 
-**Status:** In development. Repository and live demo links to be added when ready.
+**[Live Demo](https://rent-right-web.pages.dev/) · [Source Code](https://github.com/benkarlsberg/rent-right)**
 
 ### [Agentic Retrieval Systems](https://github.com/benkarlsberg/Agentic-Retrieval-Systems)
 
